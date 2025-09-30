@@ -1,0 +1,17 @@
+# Ignore datasets
+data/
+yolo_back/
+yolo_side/
+
+# Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+*.log
+*.DS_Store
+
+# Virtual environment
+vetra-env/

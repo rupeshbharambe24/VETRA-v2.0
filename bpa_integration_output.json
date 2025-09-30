@@ -1,0 +1,60 @@
+{
+  "evaluation_id": "EVAL_20250930_111217",
+  "evaluator_id": "VETRA_AUTO",
+  "timestamp": "2025-09-30T11:12:17.282936",
+  "image_metadata": {
+    "side_view": "36.png",
+    "back_view": "45.png",
+    "capture_time": "2025-09-30T11:12:17.271946"
+  },
+  "animal_data": {
+    "type": "cattle",
+    "breed": "jang",
+    "age_category": "adult",
+    "sex": "female"
+  },
+  "physical_measurements": {
+    "side_view": {
+      "head_length": 51.71416928114296,
+      "oblique_body_length": 138.71262361220295,
+      "girth_length": 77.78770806627904,
+      "chest_depth": 64.86077117017585,
+      "withers_height": 130.0,
+      "rump_angle": 45
+    },
+    "back_view": {
+      "rump_width": 30.35494230446904,
+      "hip_width": 52.992927044898174,
+      "tail_length": 89.19360049385864,
+      "left_hip_height": 111.21369064902751,
+      "right_hip_height": 123.6834671850766,
+      "thurl_width": 41.67385411576405
+    }
+  },
+  "atc_evaluation": {
+    "trait_scores": {
+      "head_length": 9,
+      "oblique_body_length": 5,
+      "girth_length": 1,
+      "chest_depth": 6,
+      "withers_height": 6,
+      "rump_angle": 2,
+      "rump_width": 1,
+      "hip_width": 7,
+      "overall_score": 4.0
+    },
+    "overall_score": 4.0,
+    "classification": "Average",
+    "evaluation_date": "2025-09-30"
+  },
+  "quality_metrics": {
+    "keypoint_confidence": "high",
+    "measurement_validation": "passed",
+    "image_quality": "good"
+  },
+  "system_info": {
+    "version": "VETRA_v2.0",
+    "model_timestamp": "2024-01-20",
+    "confidence_score": 0.85
+  }
+}
